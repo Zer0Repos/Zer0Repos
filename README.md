@@ -1,11 +1,7 @@
 ## Hallo
 
-<p align="left">
+<p>
+  <img src="G30.gif" alt="animated" align="left" />
   <img src="G30.gif" alt="animated" />
-</p>
-<p align="center">
-  <img src="G30.gif" alt="animated" />
-</p>
-<p align="right">
-  <img src="G30.gif" alt="animated" />
+  <img src="G30.gif" alt="animated" align="right" />
 </p>
