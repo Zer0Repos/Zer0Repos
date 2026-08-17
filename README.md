@@ -1,7 +1,7 @@
 ## Hallo
 
-<p>
-  <img src="G30.gif" alt="animated" align="left" />
-  <img src="G30.gif" alt="animated" align="center"/>
-  <img src="G30.gif" alt="animated" align="right" />
+<p align="center">
+  <img src="G30.gif" width="250" />
+  <img src="G30.gif" width="250" />
+  <img src="G30.gif" width="250" />
 </p>
