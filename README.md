@@ -1,4 +1,4 @@
-## <h> Hallo <h/>
+## <h> align="center" Hallo <h/>
 
 <p align="center">
   <img src="G30.gif" width="250" />
