@@ -1,21 +1,28 @@
-<p align="center">
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
+<table align="center">
+  <tr>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+  </tr>
 
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
+  <tr>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td rowspan="2" colspan="2">
+      <img src="G67.gif" width="300" height="300">
+    </td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+  </tr>
 
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G67.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
+  <tr>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+  </tr>
 
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-  <img src="G30.gif" width="20%" height="202" />
-</p>
+  <tr>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+    <td><img src="G30.gif" width="150" height="150"></td>
+  </tr>
+</table>
