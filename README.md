@@ -1,4 +1,8 @@
 ##  <div align="center"> Hello World  </div>
+<div align="center">
+<h4>Good day, sire. Thank you kindly for visiting my humble profile. Alas, I am but an amateur.
+</h4>
+</div>
 <table align="center">
   <tr>
     <td><img src="G30.gif" width="150" height="150"></td>
