@@ -1,8 +1,4 @@
 ##  <div align="center"> Hello World  </div>
-<div align="center">
-<h4>Good day, sire. Thank you for visiting my profile.
-</h4>
-</div>
 <table align="center">
   <tr>
     <td><img src="G30.gif" width="150" height="150"></td>
