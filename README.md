@@ -1,6 +1,6 @@
 ##  <div align="center"> Hello World  </div>
 <div align="center">
-<h4>Good day, sire. Thank you for visiting my profile. But alas, I am merely an amateur.
+<h4>Good day, sire. Thank you for visiting my profile.
 </h4>
 </div>
 <table align="center">
