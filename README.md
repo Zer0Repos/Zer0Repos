@@ -1,7 +1,7 @@
 ##  <div align="center"> Hello World  </div>
 
 <div align="center">
-  Nothing much here for now...
+  Nothing much here, for now...
 </div>
 <table align="center">
   <tr>
